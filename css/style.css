@@ -17,7 +17,7 @@ h1 {
 
 .container,
 section {
-    width: 300px;
+    width: 50%;
     margin: 0 350px;
 }
 
@@ -60,10 +60,10 @@ h3 {
 
 .selection,
 #rock {
-    margin-right: 100px;
+    margin-right: 25%;
 }
 
 .selection,
 #paper {
-    margin-right: 100px;
+    margin-right: 25%;
 }
